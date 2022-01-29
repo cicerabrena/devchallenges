@@ -13,7 +13,7 @@
 
 ## Overview
 
-This repository is was created to main links to my resolutions of the challenges presented by [DevChallenges](https://devchallenges.io/challenges).
+This repository is was created to maintain the links to my resolutions of the challenges created by [DevChallenges](https://devchallenges.io/challenges).
 
 ### Built With
 
@@ -33,36 +33,36 @@ This repository is was created to main links to my resolutions of the challenges
 
 - Challenges built with only HTML, CSS and Javascript
 
-[] 404 Not Found Page [View](https://github.com/cicerabrena)\
-[] My team page [View](https://github.com/cicerabrena)\
-[] Interior Consultant [View](https://github.com/cicerabrena)\
-[] Recipe blog [View](https://github.com/cicerabrena)\
-[] My Gallery [View](https://github.com/cicerabrena)\
-[] Checkout Page [View](https://github.com/cicerabrena)\
-[] Edie homepage [View](https://github.com/cicerabrena)\
-[] Portfolio [View](https://github.com/cicerabrena)\
+- [ ] 404 Not Found Page [View](https://github.com/cicerabrena)\
+- [ ] My team page [View](https://github.com/cicerabrena)\
+- [ ] Interior Consultant [View](https://github.com/cicerabrena)\
+- [ ] Recipe blog [View](https://github.com/cicerabrena)\
+- [ ] My Gallery [View](https://github.com/cicerabrena)\
+- [ ] Checkout Page [View](https://github.com/cicerabrena)\
+- [ ] Edie homepage [View](https://github.com/cicerabrena)\
+- [ ] Portfolio [View](https://github.com/cicerabrena)
 
 - Challenges build with React/Next
 
-[] Button Component [View](https://github.com/cicerabrena)\
-[] Input Component [View](https://github.com/cicerabrena)\
-[] Windbnb [View](https://github.com/cicerabrena)\
-[] Todo app [View](https://github.com/cicerabrena)\
-[] Random quote generator [View](https://github.com/cicerabrena)\
-[] Country quiz [View](https://github.com/cicerabrena)\
-[] Weather app [View](https://github.com/cicerabrena)\
-[] Github Jobs [View](https://github.com/cicerabrena)\
+- [ ] Button Component [View](https://github.com/cicerabrena)\
+- [ ] Input Component [View](https://github.com/cicerabrena)\
+- [ ] Windbnb [View](https://github.com/cicerabrena)\
+- [ ] Todo app [View](https://github.com/cicerabrena)\
+- [ ] Random quote generator [View](https://github.com/cicerabrena)\
+- [ ] Country quiz [View](https://github.com/cicerabrena)\
+- [ ] Weather app [View](https://github.com/cicerabrena)\
+- [ ] Github Jobs [View](https://github.com/cicerabrena)
 
 - Challenges build with React/Next (frontend) and Laravel (backend)
 
-[] Image Uploader [View](https://github.com/cicerabrena)\
-[] My Unsplash [View](https://github.com/cicerabrena)\
-[] CatWiki [View](https://github.com/cicerabrena)\
-[] Authentication app [View](https://github.com/cicerabrena)\
-[] Shoppingify [View](https://github.com/cicerabrena)\
-[] Chat group [View](https://github.com/cicerabrena)\
-[] Tweeter - Twitter Clone [View](https://github.com/cicerabrena)\
-[] Thullo - Trello Clone [View](https://github.com/cicerabrena)\
+- [ ] Image Uploader [View](https://github.com/cicerabrena)\
+- [ ] My Unsplash [View](https://github.com/cicerabrena)\
+- [ ] CatWiki [View](https://github.com/cicerabrena)\
+- [ ] Authentication app [View](https://github.com/cicerabrena)\
+- [ ] Shoppingify [View](https://github.com/cicerabrena)\
+- [ ] Chat group [View](https://github.com/cicerabrena)\
+- [ ] Tweeter - Twitter Clone [View](https://github.com/cicerabrena)\
+- [ ] Thullo - Trello Clone [View](https://github.com/cicerabrena)
 
 ## Acknowledgements
 
