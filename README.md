@@ -34,7 +34,7 @@ This repository is was created to maintain the links to my resolutions of the ch
 - Challenges built with only HTML, CSS and Javascript
 
 - [x] 404 Not Found Page [View](https://github.com/cicerabrena/devchallenge-404)
-- [ ] My team page [View](https://github.com/cicerabrena)
+- [x] My team page [View](https://github.com/cicerabrena/my-team-page)
 - [ ] Interior Consultant [View](https://github.com/cicerabrena)
 - [ ] Recipe blog [View](https://github.com/cicerabrena)
 - [ ] My Gallery [View](https://github.com/cicerabrena)
