@@ -35,7 +35,7 @@ This repository is was created to maintain the links to my resolutions of the ch
 
 - [x] 404 Not Found Page [View](https://github.com/cicerabrena/devchallenge-404)
 - [x] My team page [View](https://github.com/cicerabrena/devchallenge-team-page)
-- [ ] Interior Consultant [View](https://github.com/cicerabrena)
+- [x] Interior Consultant [View](https://github.com/cicerabrena/devchallenge-interior-consultant)
 - [ ] Recipe blog [View](https://github.com/cicerabrena)
 - [ ] My Gallery [View](https://github.com/cicerabrena)
 - [ ] Checkout Page [View](https://github.com/cicerabrena)
