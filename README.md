@@ -39,7 +39,7 @@ This repository is was created to maintain the links to my resolutions of the ch
 - [x] Recipe blog [View](https://github.com/cicerabrena/devchallenge-recipe-page)
 - [x] My Gallery [View](https://github.com/cicerabrena/devchallenge-my-gallery)
 - [x] Checkout Page [View](https://github.com/cicerabrena/devchallenge-checkout-page)
-- [ ] Edie homepage [View](https://github.com/cicerabrena)
+- [x] Edie homepage [View](https://github.com/cicerabrena/devchallenge-edie-homepage)
 - [ ] Portfolio [View](https://github.com/cicerabrena)
 
 - Challenges build with React/Next
