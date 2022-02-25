@@ -40,7 +40,7 @@ This repository is was created to maintain the links to my resolutions of the ch
 - [x] My Gallery [View](https://github.com/cicerabrena/devchallenge-my-gallery)
 - [x] Checkout Page [View](https://github.com/cicerabrena/devchallenge-checkout-page)
 - [x] Edie homepage [View](https://github.com/cicerabrena/devchallenge-edie-homepage)
-- [ ] Portfolio [View](https://github.com/cicerabrena)
+- [x] Portfolio [View](https://github.com/cicerabrena/devchallenge-portfolio)
 
 - Challenges build with React/Next
 
