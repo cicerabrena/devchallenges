@@ -44,8 +44,8 @@ This repository is was created to maintain the links to my resolutions of the ch
 
 - Challenges build with React/Next
 
-- [ ] Button Component [View](https://github.com/cicerabrena)
-- [ ] Input Component [View](https://github.com/cicerabrena)
+- [x] Button Component [View](https://github.com/cicerabrena/devchallenge-button-component)
+- [x] Input Component [View](https://github.com/cicerabrena/devchallenge-input-component)
 - [ ] Windbnb [View](https://github.com/cicerabrena)
 - [ ] Todo app [View](https://github.com/cicerabrena)
 - [ ] Random quote generator [View](https://github.com/cicerabrena)
